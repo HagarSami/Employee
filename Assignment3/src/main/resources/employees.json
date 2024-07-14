@@ -1,0 +1,38 @@
+[
+	{
+		"firstName": "Sam",
+		"lastName": "Jackson",
+		"employeeID": 1000,
+		"designation": "\"Team Leader\"",
+		"knownLanguages": [
+			{
+				"languageName": "Java",
+				"scoreOutof100": 90
+			}
+		]
+	},
+	{
+		"firstName": "John",
+		"lastName": "Jackson",
+		"employeeID": 1000,
+		"designation": "Manager",
+		"knownLanguages": [
+			{
+				"languageName": "Java",
+				"scoreOutof100": 90
+			}
+		]
+	},
+	{
+		"firstName": "Hagar",
+		"lastName": "Jackson",
+		"employeeID": 2000,
+		"designation": "Manager",
+		"knownLanguages": [
+			{
+				"languageName": "Java",
+				"scoreOutof100": 30
+			}
+		]
+	}
+]
